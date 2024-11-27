@@ -109,7 +109,3 @@ By default, the server allows cross-origin requests from all origins (`Access-Co
 To change the default port (`3000`), you can set the `PORT` environment variable:
 
 `PORT=8080 npm start`
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and use it according to your needs.
